@@ -1,0 +1,1 @@
+{"AccountResonse":{"type":"object","properties":{"fetcherPk":{"type":"string"},"pkIdx":{"type":"string"},"asset":{"type":"string"},"free":{"type":"string"},"locked":{"type":"string"},"fetchSig":{}},"required":["fetcherPk","pkIdx","asset","free","locked","fetchSig"]}}
